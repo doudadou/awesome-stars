@@ -307,6 +307,7 @@
 
 ## Others
 
+* [koa-guide](https://github.com/guo-yu/koa-guide) - koa guide in Chinese
 * [es6-coding-style](https://github.com/gf-rd/es6-coding-style) - ECMAScript 2015 Coding Style -- 广发证券前端团队
 * [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This repo is a collection of awesome Mac applications and tools for developers and designers.
 * [mobileTech](https://github.com/jtyjty99999/mobileTech) - A useful tools or tips list for mobile web application developing
@@ -350,6 +351,7 @@
 
 ## Python
 
+* [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 * [you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 * [KeymapManager](https://github.com/welefen/KeymapManager) - KeymapManager plugin for sublime text 2
 * [MultiFill](https://github.com/Lellansin/MultiFill) - A sublime text plugin for multi-fill text.
