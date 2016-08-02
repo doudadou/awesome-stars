@@ -129,7 +129,7 @@
 * [Express-Gulp-BrowserSync](https://github.com/kisnows/Express-Gulp-BrowserSync) - 
 * [RAP](https://github.com/thx/RAP) - Web API management, free and open sourced, mock data generator, auto test, made by Alibaba, using by 1000+ corporations! Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理。阿里妈妈MUX团队出品！阿里巴巴都在用！1000+公司的选择！一直被抄袭，从未被超越 :3
 * [react-starter-kit](https://github.com/bodyno/react-starter-kit) - 完美使用 React, Redux, and React-Router！最好用的脚手架
-* [ant-motion](https://github.com/ant-motion/ant-motion) - :bicyclist: A efficient motion design solutions
+* [ant-motion](https://github.com/ant-design/ant-motion) - :bicyclist: A efficient motion design solutions
 * [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - 3000 Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full stying.
 * [react-native-carousel](https://github.com/nick/react-native-carousel) - Carousel component for react-native
 * [30-days-of-react-native](https://github.com/fangwei716/30-days-of-react-native) - 30 days of React Native demos
@@ -164,7 +164,6 @@
 * [react-native-button](https://github.com/ide/react-native-button) - A button for React apps
 * [react-native-awesome-button](https://github.com/larsvinter/react-native-awesome-button) - A button React Native component supporting showing different states with animations
 * [react-native-segmented-view](https://github.com/lelandrichardson/react-native-segmented-view) - Segmented View for React Native (with animation)
-* [react-native-grid-view](https://github.com/lucholaf/react-native-grid-view) - React Native Grid/Collection View component
 * [react-native-gesture-password](https://github.com/Spikef/react-native-gesture-password) - 
 * [k-react-native-swipe-unlocker](https://github.com/leowang721/k-react-native-swipe-unlocker) - a simple swipe unlock for React Native
 * [react-native-css](https://github.com/sabeurthabti/react-native-css) - Style React-Native components with css and built in support for SASS/SCSS
