@@ -6,4 +6,380 @@
 - [Content](#starred)
 
 
+    - [ApacheConf](#apacheconf)
+    - [C](#c)
+    - [C#](#c#)
+    - [C++](#c++)
+    - [CSS](#css)
+    - [CoffeeScript](#coffeescript)
+    - [HTML](#html)
+    - [Java](#java)
+    - [JavaScript](#javascript)
+    - [Objective-C](#objective-c)
+    - [Others](#others)
+    - [PHP](#php)
+    - [Python](#python)
+    - [Ruby](#ruby)
+    - [SQL](#sql)
+    - [Shell](#shell)
+    - [Swift](#swift)
+    - [TypeScript](#typescript)
+    - [Vue](#vue)
+
+## ApacheConf
+
+* [HeyCommunity](https://github.com/dev4living/HeyCommunity) - WebApp & IOS App & Android App of Community
+
+## C
+
+* [cordova_alipay](https://github.com/wangxiaochuan366/cordova_alipay) - cordova支付宝插件
+* [phpredis](https://github.com/phpredis/phpredis) - A PHP extension for Redis
+
+## C#
+
+* [ColorHighlighter](https://github.com/Monnoroch/ColorHighlighter) - ColorHighlighter - is a plugin for the Sublime text 2 and 3, which underlays selected hexadecimal colorcodes (like "#FFFFFF", "rgb(255,255,255)", "white", etc.) with their real color. Also, plugin adds color picker to easily modify colors.
+
+## C++
+
+* [electron](https://github.com/electron/electron) - Build cross platform desktop apps with JavaScript, HTML, and CSS
+* [hardseed](https://github.com/yangyangwithgnu/hardseed) - SEX IS ZERO (0), so, who wanna be the ONE (1), aha?
+
+## CSS
+
+* [Angularjs-weui](https://github.com/limeng0403/Angularjs-weui) - 使用Angularjs框架应用weui
+* [ant-design](https://github.com/ant-design/ant-design) - :ant: A design language
+* [weui](https://github.com/weui/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
+* [PHP-Best-Practices-zh_CN](https://github.com/justjavac/PHP-Best-Practices-zh_CN) - PHP Best Practices（中译版）
+* [todo-iflux](https://github.com/KeithZhang/todo-iflux) - 
+* [HTML5-Reset](https://github.com/murtaugh/HTML5-Reset) - A simple set of best practices to get HTML5 projects off on the right foot.
+* [xmixins](https://github.com/mytcer/xmixins) - A super css mixin library which compatible with LESS、SASS and Stylus!
+* [tianyizone](https://github.com/linxz/tianyizone) - 整理平时会偶尔用到的一些CSS小东西
+* [amazeui](https://github.com/amazeui/amazeui) - Amaze UI, a mobile-first and modular front-end framework.
+* [Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
+* [ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
+* [angular-motion](https://github.com/mgcrea/angular-motion) - Fancy CSS3 animations for AngularJS 1.2+.
+* [css-loaders](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS
+* [grunt-cn](https://github.com/JST-CN/grunt-cn) - grunt中文文档
+
+## CoffeeScript
+
+* [dredd](https://github.com/apiaryio/dredd) - Language-agnostic HTTP API Testing Framework
+* [angular-drag-and-drop](https://github.com/Lane/angular-drag-and-drop) - Highly configurable drag and drop module for Angular.
+* [ngQuickDate](https://github.com/zhouming/ngQuickDate) - An Angular.js Date/Time picker directive that stresses speed of data entry and configuration
+
+## HTML
+
+* [ionic2](https://github.com/XueRainey/ionic2) - ionic2.0文档中文翻译
+* [ionicons](https://github.com/driftyco/ionicons) - The premium icon font for Ionic
+* [react-native-lesson](https://github.com/vczero/react-native-lesson) - React-Native入门指南
+* [typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
+* [puphpet](https://github.com/puphpet/puphpet) - Vagrant/Puppet GUI
+* [Mars](https://github.com/AlloyTeam/Mars) - 腾讯移动Web前端知识库
+* [jquery_lazyload](https://github.com/tuupola/jquery_lazyload) - jQuery plugin for lazy loading images
+* [AdminLTE](https://github.com/almasaeed2010/AdminLTE) - AdminLTE - Free Premium Admin control Panel Theme That Is Based On Bootstrap 3.x
+* [emberjs-cn.github.com](https://github.com/emberjs-cn/emberjs-cn.github.com) - Ember.js的中文开发者交流平台，提供Ember.js官方网站指南和API的中文翻译，持续关注最近的社区动态，为您提供高质量的Ember.js中文资料。
+
+## Java
+
+* [cordova-plugin-inapppurchase](https://github.com/AlexDisler/cordova-plugin-inapppurchase) - A lightweight cordova plugin for in app purchases on iOS/Android
+* [react-native-barcodescanner](https://github.com/ideacreation/react-native-barcodescanner) - A barcode scanner component for react native
+* [VideoPlayer](https://github.com/macdonst/VideoPlayer) - 
+* [TheOneCoder](https://github.com/starzhy/TheOneCoder) - react native: listview refresh,share,wechat,webview,Tip
+* [cordova-plugin-payment-iap](https://github.com/cranberrygame/cordova-plugin-payment-iap) - 
+* [react-native-audio-player](https://github.com/Sh3rawi/react-native-audio-player) - A React Native module to play audio on Android
+* [react-native-wechat-android](https://github.com/beefe/react-native-wechat-android) - Wechat SDK for React Native(Android)
+* [BaiduMapKit](https://github.com/hufeng/BaiduMapKit) - 百度地图的React-Native Android版本
+* [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
+
+## JavaScript
+
+* [node-party-gf-security-practice](https://github.com/gaohailang/node-party-gf-security-practice) - Preview
+* [mobx-roof](https://github.com/mobx-roof/mobx-roof) - Simple, React MVVM framework based on mobx
+* [ionic-native-transitions](https://github.com/shprink/ionic-native-transitions) - [Seeking maintainers] Native transitions (iOS & Android) for Ionic Framework
+* [particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
+* [react-native-desktop](https://github.com/ptmt/react-native-desktop) - React Native for macOS
+* [material-theme](https://github.com/equinusocio/material-theme) - Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino
+* [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
+* [react-native-modalbox](https://github.com/maxs15/react-native-modalbox) - A &lt;Modal/&gt; component for react-native
+* [cordova-inapppurchases-app](https://github.com/AlexDisler/cordova-inapppurchases-app) - A sample app to demonstrate in app purchases using the cordova-plugin-inapppurchase plugin for iOS and Android
+* [widget](https://github.com/mumuy/widget) - A set of widgets based on jQuery&&javascript. 一套基于jquery或javascript的插件库 - 包含：轮播、标签页、滚动条、下拉框、对话框、搜索提示、城市选择(城市三级联动)、日历等组件
+* [react-native-looped-carousel](https://github.com/appintheair/react-native-looped-carousel) - Looped carousel for React Native
+* [react-native-lightbox](https://github.com/oblador/react-native-lightbox) - Images etc in Full Screen Lightbox Popovers for React Native
+* [reac-native-equipment](https://github.com/guanMac/reac-native-equipment) - 基于react-native，使用redux管理数据和状态的产品。
+* [react-native-gifted-listview](https://github.com/FaridSafi/react-native-gifted-listview) - ListView with pull-to-refresh and infinite scrolling for Android and iOS React-Native apps
+* [react-native-gifted-spinner](https://github.com/FaridSafi/react-native-gifted-spinner) - Simple loading spinner that use React-Native ProgressBarAndroid or ActivityIndicatorIOS depending of the platform.
+* [redux-logger](https://github.com/evgenyrodionov/redux-logger) - Logger middleware for redux
+* [redux-promise](https://github.com/acdlite/redux-promise) - FSA-compliant promise middleware for Redux.
+* [react-native-iShiWuPai](https://github.com/ljunb/react-native-iShiWuPai) - 一个基于React Native实现的美食类APP。
+* [GankCamp-React-Native](https://github.com/iwgang/GankCamp-React-Native) - gank.io (干货集中营) react-native版本，同时支持Android和iOS
+* [react-native-hiapp](https://github.com/BelinChung/react-native-hiapp) - HiApp written in react-native.
+* [rn_rank](https://github.com/zhongjie-chen/rn_rank) - 干货分享app
+* [react-native-cnblogs](https://github.com/togayther/react-native-cnblogs) - cnblogs.com mobile app powered by react-native
+* [react-native-gitfeed](https://github.com/xiekw2010/react-native-gitfeed) - Yet another Github client written with react-native.
+* [react-weather](https://github.com/stage88/react-weather) - A simple weather app built with React Native and Realm
+* [f8app](https://github.com/fbsamples/f8app) - Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects.
+* [reading](https://github.com/attentiveness/reading) - iReading App  Write In React-Native
+* [react-native-htmlview](https://github.com/jsdf/react-native-htmlview) - A React Native component which renders HTML content as native views
+* [CNodeRN](https://github.com/ali322/CNodeRN) - Yet another CNode React-Native App
+* [vuex](https://github.com/vuejs/vuex) - Flux-inspired Application Architecture for Vue.js.
+* [Vue-cnodejs](https://github.com/shinygang/Vue-cnodejs) - 基于vue.js重写Cnodejs.org社区的webapp
+* [node-lessons](https://github.com/alsotang/node-lessons) - :closed_book:《Node.js 包教不包会》
+* [N-blog](https://github.com/nswbmw/N-blog) - 使用 Express + MongoDB 搭建多人博客
+* [react-native-redux-FeInn](https://github.com/febobo/react-native-redux-FeInn) - 🚀  react native redux FeInn 从零到1让你学会搭建一个APP
+* [Express-Gulp-BrowserSync](https://github.com/kisnows/Express-Gulp-BrowserSync) - 
+* [RAP](https://github.com/thx/RAP) - Web API management, free and open sourced, mock data generator, auto test, made by Alibaba, using by 1000+ corporations! Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理。阿里妈妈MUX团队出品！阿里巴巴都在用！1000+公司的选择！一直被抄袭，从未被超越 :3
+* [react-starter-kit](https://github.com/bodyno/react-starter-kit) - 完美使用 React, Redux, and React-Router！最好用的脚手架
+* [ant-motion](https://github.com/ant-motion/ant-motion) - :bicyclist: A efficient motion design solutions
+* [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - 3000 Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full stying.
+* [react-native-carousel](https://github.com/nick/react-native-carousel) - Carousel component for react-native
+* [30-days-of-react-native](https://github.com/fangwei716/30-days-of-react-native) - 30 days of React Native demos
+* [parse-server](https://github.com/ParsePlatform/parse-server) - Parse-compatible API server module for Node/Express
+* [example-react-native-redux](https://github.com/alinz/example-react-native-redux) - react native redux counter example
+* [react-native-demo](https://github.com/slashhuang/react-native-demo) - :notebook:使用react-native版本写的APP组件demo，同时对源代码添加注释(由于开发用mac,故暂未兼容安卓)
+* [xReddit](https://github.com/Eleme-IMF/xReddit) - :jack_o_lantern:  Reddit app writing in react-native + redux !
+* [react-native-scrollable-tab-view](https://github.com/skv-headless/react-native-scrollable-tab-view) - Tabbed navigation that you can swipe between, each tab can have  its own ScrollView and maintain its own scroll position between swipes. Pleasantly animated. Customizable tab bar
+* [react-native-TabBar](https://github.com/DyncKathline/react-native-TabBar) - react native tabBar
+* [ReactjsES6](https://github.com/dyf2015/ReactjsES6) - 
+* [jmui](https://github.com/junewinds/jmui) - Mobile UI React Components
+* [WeiboReactNative](https://github.com/SFantasy/WeiboReactNative) - Yijian - an iOS Weibo App made with React Native
+* [react-native-console-panel](https://github.com/NativeSH/react-native-console-panel) - simple react native console component
+* [react-redux-antd](https://github.com/okoala/react-redux-antd) - React & Redux  & Ant.Design
+* [30DaysofReactNative](https://github.com/okoala/30DaysofReactNative) - 30 Days 30 React Native Project
+* [ionic-ion-horizontal-scroll-cards](https://github.com/drewrygh/ionic-ion-horizontal-scroll-cards) - Horizontal scroll cards inspired by the Spotify app.
+* [ion-slide-box-tabs](https://github.com/JKnorr91/ion-slide-box-tabs) - An Add-On directive for the ion-slide-box, that adds tabs to the slide box, known from the Android Material Design specification
+* [electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) - :speech_balloon: A better WeChat on macOS and Linux. Fewer bugs, more features. Built with Electron by Zhongyi Tong.
+* [RNMeituan](https://github.com/lookingstars/RNMeituan) - 使用React Native开发的一个美团小demo
+* [uestc-bbs-react-native](https://github.com/just4fun/uestc-bbs-react-native) - An iOS client for http://bbs.uestc.edu.cn/ written in React Native with Redux.
+* [react-native-lagou](https://github.com/heruijun/react-native-lagou) - 用react native写的仿拉勾ios版本demo
+* [react-native-dribbble-app](https://github.com/catalinmiron/react-native-dribbble-app) - Dribbble app built with React Native
+* [react-native-gank](https://github.com/Bob1993/react-native-gank) - made for gank.io
+* [pm2](https://github.com/Unitech/pm2) - Production process manager for Node.js apps with a built-in load balancer
+* [react-native-progress](https://github.com/oblador/react-native-progress) - Progress indicators and spinners for React Native using ReactART
+* [baogame](https://github.com/guanyuxin/baogame) - 一个html5的多人游戏，后台使用node，前端canvas，使用socket通信
+* [react-native-navbar](https://github.com/react-native-community/react-native-navbar) - Navbar component for React Native
+* [video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
+* [react-native-popup](https://github.com/beefe/react-native-popup) - popup for react-native
+* [react-native-swiper2](https://github.com/sunnylqm/react-native-swiper2) - Since react-native-swiper is not maintained. I'll take it over.
+* [react-native-fs-modal](https://github.com/kirkness/react-native-fs-modal) - React native full screen modal component.
+* [react-native-button](https://github.com/ide/react-native-button) - A button for React apps
+* [react-native-awesome-button](https://github.com/larsvinter/react-native-awesome-button) - A button React Native component supporting showing different states with animations
+* [react-native-segmented-view](https://github.com/lelandrichardson/react-native-segmented-view) - Segmented View for React Native (with animation)
+* [react-native-grid-view](https://github.com/lucholaf/react-native-grid-view) - React Native Grid/Collection View component
+* [react-native-gesture-password](https://github.com/Spikef/react-native-gesture-password) - 
+* [k-react-native-swipe-unlocker](https://github.com/leowang721/k-react-native-swipe-unlocker) - a simple swipe unlock for React Native
+* [react-native-css](https://github.com/sabeurthabti/react-native-css) - Style React-Native components with css and built in support for SASS/SCSS
+* [react-native-modal](https://github.com/brentvatne/react-native-modal) - A &lt;Modal /&gt; component for react-native
+* [react-native-storage](https://github.com/sunnylqm/react-native-storage) - local storage wrapper for both react-native and browser. Support size controlling, auto expiring, remote data auto syncing and getting batch data in one query.
+* [react-native-router](https://github.com/t4t5/react-native-router) - Awesome navigation for your React Native app.
+* [react-native-drawer](https://github.com/root-two/react-native-drawer) - React Native Drawer
+* [News](https://github.com/xy00/News) - React-Native News Demo
+* [ZhuiYuanDemo](https://github.com/kazaff/ZhuiYuanDemo) - learn react-native-android
+* [react-lite](https://github.com/Lucifier129/react-lite) - an implementation of React that optimizes for small script size
+* [ziliun-react-native](https://github.com/sonnylazuardi/ziliun-react-native) - Ziliun article reader android app built with React Native
+* [react-native-android-lession](https://github.com/yipengmu/react-native-android-lession) - mark react-native-android steps
+* [detector](https://github.com/hotoo/detector) - :dog: 客户端环境识别模块。(UserAgent detector)
+* [react-native-navigation-bar](https://github.com/beefe/react-native-navigation-bar) - NavigationBar written in pure javascript for cross-platform support
+* [EightTracksReactNative](https://github.com/voronianski/EightTracksReactNative) - 8tracks radio client for iOS powered by ReactNative
+* [miumiu](https://github.com/Johnqing/miumiu) - react native
+* [react-native-demo](https://github.com/hugohua/react-native-demo) - a react native app for tmall 3c home page
+* [ReactNativeRubyChina](https://github.com/henter/ReactNativeRubyChina) - ReactNative iOS APP for RubyChina
+* [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native) - Hacker News iOS and Android App - Made with React Native.
+* [newswatch-react-native](https://github.com/bradoyler/newswatch-react-native) - A news app using YouTube playlists, built with React Native for iOS
+* [raindrop-app](https://github.com/caohongtao/raindrop-app) - Reference app made for www.yudianer.com, based on react-native, only android version at present.
+* [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - A Zhihu Daily(http://daily.zhihu.com/) App client implemented using React Native (Android and iOS).
+* [ReactNativeV2ex](https://github.com/chshouyu/ReactNativeV2ex) - 使用react native开发的v2ex客户端
+* [hexo-console-optimize](https://github.com/FlashSoft/hexo-console-optimize) - Hexo输出内容优化
+* [ionic-joke](https://github.com/LiveXY/ionic-joke) - 猪猪笑话－笑话,段子,短信,搞笑,爆笑,励志,幽默,冷笑话,开心,娱乐,成人笑话,好心情
+* [React-Native-App](https://github.com/vczero/React-Native-App) - React-Native实战simple App
+* [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
+* [mrn](https://github.com/binggg/mrn) - Material React Native (MRN) - A Material Design style React Native component library.
+* [nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
+* [phonegap-VoiceRecognition](https://github.com/loveky/phonegap-VoiceRecognition) - 一款基于百度开放API的语音识别应用
+* [GuGuJianKong](https://github.com/ParryQiu/GuGuJianKong) - Ionic App for website online monitor / website test speed / website SEO
+* [ddx](https://github.com/xiaokekeT/ddx) - koa+react+redux
+* [angular-kickstart](https://github.com/vesparny/angular-kickstart) - angular-kickstart - speed up your AngularJS development and testing with a great gulpjs build system.
+* [forum-frontend](https://github.com/react-china/forum-frontend) - React implemented frontend for react-china.org
+* [hexo-hey](https://github.com/nihgwu/hexo-hey) - an admin plugin for hexo
+* [ionic-scroll-sista](https://github.com/djett41/ionic-scroll-sista) - An Ionic plugin that hides the header/tabs while scrolling
+* [react-native-viewpager](https://github.com/race604/react-native-viewpager) - ViewPager component for React Native
+* [ionic-content-banner](https://github.com/djett41/ionic-content-banner) - An informational content banner for Ionic applications
+* [ionic-citypicker](https://github.com/minh8023/ionic-citypicker) - ionic扩展插件，模拟iOS选择器做的城市三级联动。 ionic-citypicker
+* [jpush-phonegap-plugin](https://github.com/jpush/jpush-phonegap-plugin) - JPush's officially supported PhoneGap/Cordova plugin (Android & iOS).  极光推送官方支持的 PhoneGap/Cordova 插件（Android & iOS）。
+* [IonicClub](https://github.com/zxj963577494/IonicClub) - Ionic项目实例,Ionic中文社区
+* [angular-loading-bar](https://github.com/chieffancypants/angular-loading-bar) - A fully automatic loading / progress bar for your angular apps.
+* [cordova-plugin-wechat-example](https://github.com/xu-li/cordova-plugin-wechat-example) - An example project for cordova-plugin-wechat
+* [daily](https://github.com/tuchong/daily) - the iOS tuchong daily app
+* [ionic-AutoUpdateApp](https://github.com/zxj963577494/ionic-AutoUpdateApp) - ionic 自动升级APP
+* [A-ReactNative-TesterHome](https://github.com/qddegtya/A-ReactNative-TesterHome) - :sparkles: React-Native APP for https://testerhome.com
+* [ng-walkthrough](https://github.com/souly1/ng-walkthrough) - A walkthrough/on-boarding/tour guide/learning page directive which is responsive, dynamic, easy to use
+* [ionic-cipher-safe-app](https://github.com/nraboy/ionic-cipher-safe-app) - Store passwords on Firebase using a master password and AES strength encryption with Ionic Framework
+* [blogjs](https://github.com/kdelemme/blogjs) - BlogJS is a simple blog application built with AngularJS, Node.js and MongoDB. Creates your article and shares them in a beautiful minimalistic template.
+* [jQuery.my](https://github.com/ermouth/jQuery.my) - jQuery.my is a plugin that bind form controls with js data structures.
+* [ionic-babythings](https://github.com/my101du/ionic-babythings) - A cross-platform(iOS,Android) APP based on ionic framework and AngularJS
+* [seajs](https://github.com/seajs/seajs) - A Module Loader for the Web
+* [react-devtools](https://github.com/facebook/react-devtools) - An extension that allows inspection of React component hierarchy in Chrome Developer Tools.
+* [react-ui](https://github.com/Lobos/react-ui) - A collection of components for React.
+* [gvs](https://github.com/Lucifier129/gvs) - Global variables sniffer
+* [noder-react-native](https://github.com/soliury/noder-react-native) - The mobile app of cnodejs.org written in React Native
+* [material](https://github.com/angular/material) - Material design for Angular
+* [ionic-image-lazy-load](https://github.com/paveisistemas/ionic-image-lazy-load) - Directive to Ionic Framework that only loads an image when it is seen by the user.
+* [ionic-http-auth](https://github.com/keithdmoore/ionic-http-auth) - An ionic-starter-project to show how the angular-http-auth library can be used for authentication.
+* [Ionic-Material](https://github.com/zachfitz/Ionic-Material) - Seamless Material Design theme for Ionic
+* [Framework7-Plus](https://github.com/sdc-fe/Framework7-Plus) - 此项目已经不再维护，请不要使用。可以选择 SUI-Mobile（MSUI）https://github.com/sdc-alibaba/SUI-Mobile
+* [SUI-Mobile](https://github.com/sdc-alibaba/SUI-Mobile) - SUI Mobile (MSUI)是由阿里巴巴国际UED前端出品的移动端UI库，轻量精美
+* [flux-react-router-example](https://github.com/gaearon/flux-react-router-example) - A sample app showcasing Flux with React Router
+* [Isomorphism-react-todomvc](https://github.com/Lucifier129/Isomorphism-react-todomvc) - Isomorphism javascript of todomvc powered by react and express
+* [material-ui](https://github.com/callemall/material-ui) - React Components that Implement Google's Material Design.
+* [amazeui-react](https://github.com/amazeui/amazeui-react) - Amaze UI components built with React.js.
+* [fluxible](https://github.com/yahoo/fluxible) - A pluggable container for universal flux applications
+* [Framework7](https://github.com/nolimits4web/Framework7) - Full Featured HTML Framework For Building iOS & Android Apps
+* [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - React Starter Kit — isomorphic web app boilerplate (Node.js, Express, GraphQL, React.js, Babel 6, PostCSS, Webpack, Browsersync)
+* [ReactNativeNews](https://github.com/tabalt/ReactNativeNews) - a news app code by react native
+* [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+* [flux](https://github.com/facebook/flux) - Application Architecture for Building User Interfaces
+* [lazy-load-xt](https://github.com/ressio/lazy-load-xt) - Lazy load XT is a jQuery plugin for images, videos and other media
+* [sf-react-native](https://github.com/fakefish/sf-react-native) - An iOS client of segmentfault writen by react native
+* [Waves](https://github.com/fians/Waves) - Click effect inspired by Google's Material Design
+* [scrollreveal.js](https://github.com/jlmakes/scrollreveal.js) - Easy scroll animations for web and mobile browsers.
+* [laravel5-rbac-example](https://github.com/yuansir/laravel5-rbac-example) - RBAC Example By Laravel5.2
+* [Douban-JSLint](https://github.com/kejun/Douban-JSLint) - 
+* [react-native](https://github.com/reactjs-cn/react-native) - 此项目从官方 fork 下来，正在逐步翻译项目中的英文文档。
+* [v2er](https://github.com/samuel1112/v2er) - A simple v2ex client app, use React Native
+* [spacegray](https://github.com/kkga/spacegray) - A Hyperminimal UI Theme for Sublime Text
+* [react-docs](https://github.com/reactjs-cn/react-docs) - reactjs中文文档
+* [dragloader](https://github.com/thomasyus/dragloader) - dragloader.js是一个面向移动Web开发的JavaScript库，帮助开发者在使用页面原生滚动时，模拟上/下拉手势，实现Pull to Request操作。
+* [node-horseman](https://github.com/johntitus/node-horseman) - Run PhantomJS from Node
+* [js-xls](https://github.com/SheetJS/js-xls) - XLS (BIFF5/BIFF8, Excel 95-2004 spreadsheet) and XML (Excel 2003/2004) parser, now merged into http://sheetjs.com/js-xlsx
+* [sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
+* [Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) - Light and responsive lightbox script with focus on performance.
+* [gulp-mock](https://github.com/DaniloShan/gulp-mock) - Mock plugin base on gulp.
+* [cropper](https://github.com/fengyuanchen/cropper) - A simple jQuery image cropping plugin.
+* [jMyCarousel](https://github.com/e-nova-tech/jMyCarousel) - 
+* [riot](https://github.com/riot/riot) - A React-like, user interface library
+* [portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy
+* [jslint-error-explanations-zh](https://github.com/SFantasy/jslint-error-explanations-zh) - :orange_book: JSLint-error-explanations Chinese clone.
+* [tmodjs](https://github.com/aui/tmodjs) - 前端模板外置解决方案
+* [font-spider](https://github.com/aui/font-spider) - Smart webfont compression and format conversion tool
+* [ChromeSnifferPlus](https://github.com/justjavac/ChromeSnifferPlus) - Sniff web framework and javascript libraries run on browsing website.
+* [RedisLive](https://github.com/nkrode/RedisLive) - Visualize your redis instances, analyze query patterns and spikes.
+* [anijs](https://github.com/anijs/anijs) - A Library to Raise your Web Design without Coding.
+* [jsfuck](https://github.com/aemkei/jsfuck) - Write any JavaScript with 6 Characters: []()!+
+* [artDialog](https://github.com/aui/artDialog) - 经典的网页对话框组件
+* [select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
+* [fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
+* [thinkjs](https://github.com/75team/thinkjs) - Use full ES2015+ features to develop Node.js applications, Support TypeScript
+* [pjax](https://github.com/welefen/pjax) - ajax + history.pushState = pjax
+* [gplus](https://github.com/welefen/gplus) - 一款类似于google plus界面和交互的wordpress皮肤
+* [Mock](https://github.com/nuysoft/Mock) - A simulation data generator
+* [mean](https://github.com/linnovate/mean) - MEAN (Mongo, Express, Angular, Node) - A Simple, Scalable and Easy starting point for full stack javascript web development - utilizing many of the best practices we've found on the way
+* [bootstrap](https://github.com/angular-ui/bootstrap) - Native AngularJS (Angular) directives for Bootstrap. Smaller footprint (20kB gzipped), no 3rd party JS dependencies (jQuery, bootstrap JS) required. Please read the README.md file before submitting an issue!
+* [HiChat](https://github.com/wayou/HiChat) - A chat application built with Node.js and Websocket
+* [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
+* [vco-angular-mobile](https://github.com/ckken/vco-angular-mobile) - angular mobile
+* [echarts](https://github.com/ecomfe/echarts) - A powerful, interactive charting and visualization library for browser
+* [nice-validator](https://github.com/niceue/nice-validator) - Simple, smart and pleasant validation solution.
+* [webuploader](https://github.com/fex-team/webuploader) - It's a new file uploader solution!
+* [css-auto-reload](https://github.com/allenm/css-auto-reload) - A simple but useful chrome extension for web developers, helps you automaticly reload the css files in the browser after you modify them, without ruining your codes.
+* [auth](https://github.com/kissygalleryteam/auth) - 表单验证组件
+* [avalon](https://github.com/RubyLouvre/avalon) - an elegant efficient express mvvm framework
+* [Alice](https://github.com/sofish/Alice) - Alice - 写CSS的更好方案
+
+## Objective-C
+
+* [react-native-webview-bridge](https://github.com/alinz/react-native-webview-bridge) - React Native Webview with Javascript Bridge
+* [react-native-camera](https://github.com/lwansbrough/react-native-camera) - A Camera component for React Native. Also supports barcode scanning!
+* [react-native-nba-app](https://github.com/wwayne/react-native-nba-app) - This is why we play
+* [TYZRNEditor](https://github.com/ilioner/TYZRNEditor) - React-Native RichEditor for iOS
+* [react-native-spinkit](https://github.com/maxs15/react-native-spinkit) - A collection of animated loading indicators for React Native
+* [react-native-effects-view](https://github.com/voronianski/react-native-effects-view) - Use iOS8 UIVisualEffectViews's blur and vibrancy with ReactNative
+* [react-native-device](https://github.com/GertjanReynaert/react-native-device) - A UIDevice class wrapper for React Native
+* [react-native-blur](https://github.com/react-native-community/react-native-blur) - React Native Blur component
+* [ReactNativeBarcodeScanner](https://github.com/lifuzu/ReactNativeBarcodeScanner) - Implemented a barcode scanner with support of react native technology
+* [react-native-icons](https://github.com/corymsmith/react-native-icons) - Quick and easy icons in React Native
+* [react-native-babel](https://github.com/roman01la/react-native-babel) - Configuration to build React Native apps with ES6 using webpack and Babel
+* [toutiao](https://github.com/kailuo99/toutiao) - 一款基于react-native 的ios android版 资讯头条 APP
+* [cordova-plugin-video-editor](https://github.com/jbavari/cordova-plugin-video-editor) - A cordova plugin to edit videos.
+* [cordova-plugin-leanpush](https://github.com/BenBBear/cordova-plugin-leanpush) - Cordova plugin for LeanCloud push notification and analytics
+* [cordova_weibo](https://github.com/iVanPan/cordova_weibo) - This is a Cordova Plugin for WeiboSDK
+* [Cordova_QQ](https://github.com/iVanPan/Cordova_QQ) - This is a Cordova Plugin For Tencent QQ SDK
+* [cordova-plugin-pingpp](https://github.com/TongChia/cordova-plugin-pingpp) - Ping++ 支付 Cordova / PhoneGap 插件
+* [shadowsocks-iOS](https://github.com/shadowsocks/shadowsocks-iOS) - Removed according to regulations.
+
+## Others
+
+* [es6-coding-style](https://github.com/gf-rd/es6-coding-style) - ECMAScript 2015 Coding Style -- 广发证券前端团队
+* [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This repo is a collection of awesome Mac applications and tools for developers and designers.
+* [mobileTech](https://github.com/jtyjty99999/mobileTech) - A useful tools or tips list for mobile web application developing
+* [react-native-coding-style](https://github.com/cnsnake11/react-native-coding-style) - 基于airbnb的react编码规范与广发证券前端团队的编码规范修改而成。感谢这两个团队！
+* [flow.ci](https://github.com/FIRHQ/flow.ci) - Public docs & issues for flow.ci
+* [blog](https://github.com/camsong/blog) - Front-end Development Thoughts
+* [Building-the-F8-2016-App-CN](https://github.com/pockry/Building-the-F8-2016-App-CN) - Facebook开发F8 2016 App官方教程的中文版。 原官网： http://makeitopen.com/
+* [awesome-front-end](https://github.com/luqin/awesome-front-end) - A curated list of awesome front end resources. 前端资源收藏，欢迎点击 watch 订阅更新
+* [ReactNative_Android_QA](https://github.com/yipengmu/ReactNative_Android_QA) - 
+* [CoreLink](https://github.com/lizhangqu/CoreLink) - Android 开发中的日常积累
+* [article](https://github.com/amfe/article) - 
+* [front-end-collect](https://github.com/ychow/front-end-collect) - 分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者
+* [react-native-guide](https://github.com/reactnativecn/react-native-guide) - React Native指南汇集了各类react-native学习资源、开源App和组件
+* [android-open-project](https://github.com/Trinea/android-open-project) - Collect and classify android open source projects 微信公众号：codekk
+* [ionic-adventures](https://github.com/juarezpaf/ionic-adventures) - Ionic Adventures is all about a journey using the Ionic Framework
+* [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
+* [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
+* [http-api-guide](https://github.com/bolasblack/http-api-guide) - 
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
+* [static](https://github.com/staticfile/static) - 开放静态文件 - 为开源库稳定、快速的免费 CDN 服务
+* [daily-welfare](https://github.com/fenbility/daily-welfare) - #每日福利#
+* [spec](https://github.com/ecomfe/spec) - This repository contains the specifications.
+* [truth](https://github.com/comeforu2012/truth) - 
+* [Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
+* [javascript.patterns](https://github.com/TooBug/javascript.patterns) - JavaScript Patterns 中译本
+* [gopng](https://github.com/AlloyTeam/gopng) - GoPng - a HTML5 css sprite generator with cool feature.
+
+## PHP
+
+* [wechat](https://github.com/overtrue/wechat) - :package: Maybe it is the best SDK for develop WeChat App.
+* [Robo](https://github.com/consolidation-org/Robo) - Modern task runner for PHP
+* [iOS-Receipt-Validator-PHP](https://github.com/chrismaddern/iOS-Receipt-Validator-PHP) - PHP implementation of validating iPhone / iOS In App Purchase (IAP) receipt codes
+* [laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Laravel Debugbar (Integrates PHP Debug Bar)
+* [phpspider](https://github.com/owner888/phpspider) - 《我用爬虫一天时间“偷了”知乎一百万用户，只为证明PHP是世界上最好的语言 》所使用的程序
+* [tesseract-ocr-for-php](https://github.com/thiagoalessio/tesseract-ocr-for-php) - A wrapper to work with Tesseract OCR inside PHP.
+* [react-php-v8js](https://github.com/reactjs/react-php-v8js) - PHP library that renders React components on the server
+* [laravel5-amazeui-admin](https://github.com/iroben/laravel5-amazeui-admin) - laravel5 amazeui admin
+* [pcc](https://github.com/sektioneins/pcc) - PHP Secure Configuration Checker
+* [fis-plus](https://github.com/fex-team/fis-plus) - 百度基于FIS的前端集成解决方案，可能是史上最强大的前端集成解决方案
+* [Fl](https://github.com/welefen/Fl) - A Js/Html/Css Toolkit That Support Template
+
+## Python
+
+* [you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
+* [KeymapManager](https://github.com/welefen/KeymapManager) - KeymapManager plugin for sublime text 2
+* [MultiFill](https://github.com/Lellansin/MultiFill) - A sublime text plugin for multi-fill text.
+
+## Ruby
+
+* [awesome-react-native](https://github.com/jondot/awesome-react-native) - An "awesome" type curated list of React Native components, news, tools, and learning material
+
+## SQL
+
+* [tang_poetry](https://github.com/hxgdzyuyi/tang_poetry) - 全唐诗数据库
+
+## Shell
+
+* [smarthosts](https://github.com/smarthosts/smarthosts) - Smarthosts
+
+## Swift
+
+* [react-native-app-qiufit](https://github.com/buhe/react-native-app-qiufit) - A Convict Conditioning Tracker App
+* [eviltransform](https://github.com/googollee/eviltransform) - Transport coordinate between earth(WGS-84) and mars in china(GCJ-02).
+
+## TypeScript
+
+* [GhostText](https://github.com/GhostText/GhostText) - :ghost: Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
+* [cordova-plugin-code-push](https://github.com/Microsoft/cordova-plugin-code-push) - Cordova plugin for CodePush
+
+## Vue
+
+* [vue-bushishiren](https://github.com/nswbmw/vue-bushishiren) - 不是诗人
+* [vue-movie](https://github.com/liyahui/vue-movie) - 使用vue.js+webpack+豆瓣api写的一个电影webapp
+* [jackblog-vue](https://github.com/jackhutu/jackblog-vue) - Jackblog vue 版, 个人博客系统,  使用 vue, vuex, vue-resource, vue-router, vue-strap, vue-validator, vue-toastr 等.
+* [vux](https://github.com/airyland/vux) - Mobile web UI Components based on Vue and WeUI. Be Cool with Vue & WeUI.
 
