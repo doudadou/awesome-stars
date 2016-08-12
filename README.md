@@ -32,6 +32,7 @@
 
 ## C
 
+* [reading-code-of-nginx-1.9.2](https://github.com/y123456yz/reading-code-of-nginx-1.9.2) - nginx-1.9.2源码通读分析注释，带详尽函数中文分析注释以及相关函数流程调用注释，最全面的nginx源码阅读分析中文注释，持续更新
 * [cordova_alipay](https://github.com/wangxiaochuan366/cordova_alipay) - cordova支付宝插件
 * [phpredis](https://github.com/phpredis/phpredis) - A PHP extension for Redis
 
@@ -69,6 +70,7 @@
 
 ## HTML
 
+* [VeryNginx](https://github.com/alexazhou/VeryNginx) - A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
 * [ionic2](https://github.com/XueRainey/ionic2) - ionic2.0文档中文翻译
 * [ionicons](https://github.com/driftyco/ionicons) - The premium icon font for Ionic
 * [react-native-lesson](https://github.com/vczero/react-native-lesson) - React-Native入门指南
@@ -81,6 +83,7 @@
 
 ## Java
 
+* [cordova-plugin-safariviewcontroller](https://github.com/EddyVerbruggen/cordova-plugin-safariviewcontroller) - :tiger: :elephant: :crocodile: Forget InAppBrowser for iOS - this is way better for displaying read-only web content in your PhoneGap app
 * [cordova-plugin-inapppurchase](https://github.com/AlexDisler/cordova-plugin-inapppurchase) - A lightweight cordova plugin for in app purchases on iOS/Android
 * [react-native-barcodescanner](https://github.com/ideacreation/react-native-barcodescanner) - A barcode scanner component for react native
 * [VideoPlayer](https://github.com/macdonst/VideoPlayer) - 
@@ -93,11 +96,31 @@
 
 ## JavaScript
 
+* [p2pspider](https://github.com/dontcontactme/p2pspider) - DHT Spider + BitTorrent Client = P2P Spider
+* [node-ocr-demo](https://github.com/think2011/node-ocr-demo) - 用 node.js 配合 tesseract 和 graphicsmagick 实现验证码识别
+* [node-proxy-agent](https://github.com/TooTallNate/node-proxy-agent) - Maps proxy protocols to `http.Agent` implementations
+* [superagent-proxy](https://github.com/TooTallNate/superagent-proxy) - `Request#proxy(uri)` superagent extension
+* [phantomjs-node](https://github.com/amir20/phantomjs-node) - PhantomJS integration module for NodeJS
+* [basic-auth](https://github.com/jshttp/basic-auth) - Generic basic auth Authorization header field parser
+* [snippets](https://github.com/barretlee/snippets) - Code Snippets
+* [tech-read](https://github.com/dwqs/tech-read) - Grab tech articles daily from UGC communities
+* [cnblogSpider](https://github.com/chokcoco/cnblogSpider) - 基于nodejs 的博客园爬虫项目
+* [request](https://github.com/request/request) - Simplified HTTP request client.
+* [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
+* [eventproxy](https://github.com/JacksonTian/eventproxy) - An implementation of task/event based asynchronous pattern.
+* [async_demo](https://github.com/alsotang/async_demo) - :blue_book:async.js 各种函数的 demo
+* [koa2-easy](https://github.com/Lxxyx/koa2-easy) - Easy way to use koa2
+* [GaGaMall](https://github.com/jiangqqlmj/GaGaMall) - React Native开发嘎嘎商城客户端
+* [node-koa2](https://github.com/node-lovers/node-koa2) - 使用koa-generator生成的koa2项目脚手架
+* [runkoa](https://github.com/17koa/runkoa) - runkoa：使用koa1和koa2的时候，不用在意babel的细节，无论哪种写法（common, generator, async）都完美支持
+* [pokemongo-webspoof](https://github.com/iam4x/pokemongo-webspoof) - 👾 Play Pokémon Go from your Mac
+* [freecodecamp.cn](https://github.com/huluoyang/freecodecamp.cn) - 欢迎来到freecodecamp.cn中文社区，走过路过千万不要错过，干货都在Wiki中。
+* [WeFlow](https://github.com/weixin/WeFlow) - 一个高效、强大、跨平台的 Web 前端开发工作流工具
 * [node-party-gf-security-practice](https://github.com/gaohailang/node-party-gf-security-practice) - Preview
 * [mobx-roof](https://github.com/mobx-roof/mobx-roof) - Simple, React MVVM framework based on mobx
 * [ionic-native-transitions](https://github.com/shprink/ionic-native-transitions) - [Seeking maintainers] Native transitions (iOS & Android) for Ionic Framework
 * [particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
-* [react-native-desktop](https://github.com/ptmt/react-native-desktop) - React Native for macOS
+* [react-native-macos](https://github.com/ptmt/react-native-macos) - React Native for macOS
 * [material-theme](https://github.com/equinusocio/material-theme) - Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino
 * [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
 * [react-native-modalbox](https://github.com/maxs15/react-native-modalbox) - A &lt;Modal/&gt; component for react-native
@@ -106,9 +129,9 @@
 * [react-native-looped-carousel](https://github.com/appintheair/react-native-looped-carousel) - Looped carousel for React Native
 * [react-native-lightbox](https://github.com/oblador/react-native-lightbox) - Images etc in Full Screen Lightbox Popovers for React Native
 * [reac-native-equipment](https://github.com/guanMac/reac-native-equipment) - 基于react-native，使用redux管理数据和状态的产品。
-* [react-native-gifted-listview](https://github.com/FaridSafi/react-native-gifted-listview) - ListView with pull-to-refresh and infinite scrolling for Android and iOS React-Native apps
+* [react-native-gifted-listview](https://github.com/FaridSafi/react-native-gifted-listview) - ✌️ ListView with pull-to-refresh and infinite scrolling for Android and iOS React-Native apps
 * [react-native-gifted-spinner](https://github.com/FaridSafi/react-native-gifted-spinner) - Simple loading spinner that use React-Native ProgressBarAndroid or ActivityIndicatorIOS depending of the platform.
-* [redux-logger](https://github.com/evgenyrodionov/redux-logger) - Logger middleware for redux
+* [redux-logger](https://github.com/evgenyrodionov/redux-logger) - Logger middleware for Redux
 * [redux-promise](https://github.com/acdlite/redux-promise) - FSA-compliant promise middleware for Redux.
 * [react-native-iShiWuPai](https://github.com/ljunb/react-native-iShiWuPai) - 一个基于React Native实现的美食类APP。
 * [GankCamp-React-Native](https://github.com/iwgang/GankCamp-React-Native) - gank.io (干货集中营) react-native版本，同时支持Android和iOS
@@ -306,6 +329,9 @@
 
 ## Others
 
+* [blog](https://github.com/dwqs/blog) - My New Blog's Address
+* [node123](https://github.com/youyudehexie/node123) - node.js中文资料导航
+* [koa-book](https://github.com/minghe/koa-book) - koa.js实战
 * [koa-guide](https://github.com/guo-yu/koa-guide) - koa guide in Chinese
 * [es6-coding-style](https://github.com/gf-rd/es6-coding-style) - ECMAScript 2015 Coding Style -- 广发证券前端团队
 * [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This repo is a collection of awesome Mac applications and tools for developers and designers.
@@ -350,6 +376,8 @@
 
 ## Python
 
+* [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive SSL-capable intercepting HTTP proxy for penetration testers and software developers
+* [wooyun_public](https://github.com/hanc00l/wooyun_public) - 乌云公开漏洞、知识库爬虫和搜索   crawl and search for wooyun.org public bug(vulnerability) and drops
 * [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 * [you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 * [KeymapManager](https://github.com/welefen/KeymapManager) - KeymapManager plugin for sublime text 2
